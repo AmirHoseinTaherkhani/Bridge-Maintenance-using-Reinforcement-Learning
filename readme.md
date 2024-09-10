@@ -32,4 +32,15 @@ This project employs a deep reinforcement learning (DRL) algorithm to optimize t
 - **Proximal Policy Optimization (PPO):** Trains the DRL agent to optimize maintenance strategies.
 
 
-If you use the data or code of this project, please cite the paper below:
+#### If you use the data or code of this project, please cite the paper below:
+@article{TAHERKHANI2024105792,
+title = {Towards equitable infrastructure asset management: Scour maintenance strategy for aging bridge systems in flood-prone zones using deep reinforcement learning},
+journal = {Sustainable Cities and Society},
+volume = {114},
+pages = {105792},
+year = {2024},
+issn = {2210-6707},
+doi = {https://doi.org/10.1016/j.scs.2024.105792},
+url = {https://www.sciencedirect.com/science/article/pii/S2210670724006164},
+author = {Amir Taherkhani and Weiwei Mo and Erin Bell and Fei Han},
+keywords = {Flood risk management, Deep reinforcement learning, Geographic information system, Social vulnerability, Equitable infrastructure management},
